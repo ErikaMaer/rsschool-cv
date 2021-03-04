@@ -31,10 +31,8 @@ return n > 1 ? n * factorial(n - 1) : 1;
 ```
 
 ## Education
-|Year|University|
-| ----|------|
-|**2019 - present** | Kazan State Power Engineering University|
-|**2018 - 2019** | Saint Petersburg State University of Aerospace Instrumentation
+**2019 - present**  Kazan State Power Engineering University  
+**2018 - 2019**     Saint Petersburg State University of Aerospace Instrumentation
 
 ## Foreign language skills
 * English (A2)
