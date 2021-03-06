@@ -66,6 +66,10 @@ article {
     width: 95%;
 }
 
+h4 {
+    font-weight: normal;
+}
+
 
 a {
     color: #910f0f;
